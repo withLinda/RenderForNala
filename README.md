@@ -1,7 +1,9 @@
-#RenderForNala
+# RenderForNala
+
 RenderForNala is a web application created using Dash. It enables users to showcase a data table that comes with filter and sort functionalities, as well as a "download filtered CSV" button.
 
-#Usage
+# Usage
+
 To sort the table, click on the arrow located on the left side of the column header. Here's an image for reference:
 
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/82918531/236513074-217c4996-e83e-40d7-8d4e-fd6042757db0.png">
