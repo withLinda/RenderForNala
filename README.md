@@ -1,6 +1,6 @@
 # RenderForNala
 
-RenderForNala is a web application created using Dash. It enables users to showcase a data table that comes with filter and sort functionalities, as well as a "download filtered CSV" button.
+RenderForNala is a web application created using Dash. It enables users to showcase the data table (which I scraped earlier and saved as CSV) that comes with filter and sort functionalities, as well as a "download filtered CSV" button.
 
 # Usage
 
