@@ -11,7 +11,7 @@ RenderForNala is a web application built using Dash. It allows users to display 
 <img width="663" alt="image" src="https://user-images.githubusercontent.com/82918531/236513345-1090b034-2e0c-49ce-b431-17469b45b1f2.png">
 
 3. There's a profile link in every row in the last column, click on the hyperlink to open it on a new tab.
-<img width="664" alt="image" src="https://user-images.githubusercontent.com/82918531/236513615-ca8b3554-4113-4b97-8440-53f88b74063f.png">
+<img width="332" alt="image" src="https://user-images.githubusercontent.com/82918531/236513615-ca8b3554-4113-4b97-8440-53f88b74063f.png">
 
 
 For more information about the Dash DataTable and its documentation, please visit the following link: https://dash.plotly.com/datatable
