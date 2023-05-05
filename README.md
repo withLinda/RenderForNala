@@ -4,7 +4,7 @@ RenderForNala is a web application built using Dash. It allows users to display 
 
 ## Usage
 1. To sort the table, click on the arrow located on the left side of the column header.
-<img width="528" alt="image" src="https://user-images.githubusercontent.com/82918531/236513074-217c4996-e83e-40d7-8d4e-fd6042757db0.png">
+<img width="258" alt="image" src="https://user-images.githubusercontent.com/82918531/236513074-217c4996-e83e-40d7-8d4e-fd6042757db0.png">
 
 2. To filter the table, type in the desired keywords (e.g., "Ableton Live") and click on the "Aa" button situated on the left side of the table.
 <img width="323" alt="image" src="https://user-images.githubusercontent.com/82918531/236513277-9254c2f3-3120-4413-bde0-11a55c4a286c.png">
