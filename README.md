@@ -2,8 +2,8 @@
 
 ~~https://forNala.onrender.com/~~
 
-Migrated to Railway app, because onRender sleeps every 15 minutes of inactivity
-Use this instead:
+Migrated to Railway app, because onRender sleeps every 15 minutes of inactivity.
+Please use this instead:
 
 # **https://fornala.up.railway.app/**
 
