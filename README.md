@@ -2,7 +2,7 @@
 
 ~~https://forNala.onrender.com/~~
 
-Migrating to Railway app, because onRender sleeps every 15 minutes of inactivity
+Migrated to Railway app, because onRender sleeps every 15 minutes of inactivity
 Use this instead:
 
 # **https://fornala.up.railway.app/**
